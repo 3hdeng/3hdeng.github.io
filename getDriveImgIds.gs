@@ -23,9 +23,15 @@ String.format = function ()
     return formatResult(s);
 }
 
-function getThumbUrl(imgId,w,h){
+function getThumbUrl(imgId, w, h){
   return String.format("https://drive.google.com/thumbnail?id={0}&sz=w{1}-h{2}", imgId, w, h);
 }
+
+function getThumbUrl0(imgId){
+  return String.format("https://drive.google.com/thumbnail?id={0}", imgId);
+}
+
+
 function myFunction() {
   var ss=SpreadsheetApp.getActiveSpreadsheet();
   var s=ss.getActiveSheet();
@@ -42,10 +48,11 @@ function myFunction() {
     //str='=hyperlink("' + f.getUrl() + '","' + f.getName() + '")';
     str= '<li><a href="' + f.getUrl() + '">' + f.getName() +  '</a>';
     
-    str0=  '<li>' + f.getId() + ' , ' + f.getName();
+    //str0=  '<li>' + f.getId() + ' , ' + f.getName();
     
     //str2=  '<li><img src="' + f.getUrl() + '">' + f.getName() +  '</img>';
-    str2=  '<li><img src="' + getThumbUrl(f.getId(), 250,200) + '">' + f.getName() +  '</img>';
+    str0=  '<li><img src="' + getThumbUrl0(f.getId()) + '">' + f.getName() +  '</img>';
+    str2=  '<li><img src="' + getThumbUrl(f.getId(), 150,100) + '">' + f.getName() +  '</img>';
     ids.push([str0]);  
     anchors.push([str]);
     imgs.push([str2]);
