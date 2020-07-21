@@ -1,0 +1,473 @@
+Test run for /home/elf/workspaces/otfLib.xunit/bin/Debug/netcoreapp2.1/otfLib.xunit.nc2.dll(.NETCoreApp,Version=v2.1)
+Microsoft (R) Test Execution Command Line Tool Version 16.2.0-preview-20190606-02
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Starting test execution, please wait...
+Test_GSUB0() started ... 
+logconf.json not exist under cwd, try app folder
+/home/elf/workspaces/otfLib.xunit/bin/Debug/netcoreapp2.1/logconf.json does not exist!
+gsub.featureCount=76
+gsub.lookupCount=20
+//=== feature #0 in gsub.featureList
+featureRcd, tagStr: aalt, offset: 458
+feature.lookupIndexCount=2
+#lookupIndex: 0
+Single, flag=0, subTableCount=1
+#lookupIndex: 1
+Alternate, flag=0, subTableCount=1
+//=== feature #1 in gsub.featureList
+featureRcd, tagStr: aalt, offset: 458
+feature.lookupIndexCount=2
+#lookupIndex: 0
+Single, flag=0, subTableCount=1
+#lookupIndex: 1
+Alternate, flag=0, subTableCount=1
+//=== feature #2 in gsub.featureList
+featureRcd, tagStr: aalt, offset: 458
+feature.lookupIndexCount=2
+#lookupIndex: 0
+Single, flag=0, subTableCount=1
+#lookupIndex: 1
+Alternate, flag=0, subTableCount=1
+//=== feature #3 in gsub.featureList
+featureRcd, tagStr: aalt, offset: 458
+feature.lookupIndexCount=2
+#lookupIndex: 0
+Single, flag=0, subTableCount=1
+#lookupIndex: 1
+Alternate, flag=0, subTableCount=1
+//=== feature #4 in gsub.featureList
+featureRcd, tagStr: aalt, offset: 458
+feature.lookupIndexCount=2
+#lookupIndex: 0
+Single, flag=0, subTableCount=1
+#lookupIndex: 1
+Alternate, flag=0, subTableCount=1
+//=== feature #5 in gsub.featureList
+featureRcd, tagStr: aalt, offset: 458
+feature.lookupIndexCount=2
+#lookupIndex: 0
+Single, flag=0, subTableCount=1
+#lookupIndex: 1
+Alternate, flag=0, subTableCount=1
+//=== feature #6 in gsub.featureList
+featureRcd, tagStr: ccmp, offset: 466
+feature.lookupIndexCount=1
+#lookupIndex: 2
+Ligature, flag=0, subTableCount=1
+//=== feature #7 in gsub.featureList
+featureRcd, tagStr: dlig, offset: 472
+feature.lookupIndexCount=1
+#lookupIndex: 18
+Ligature, flag=rightToLeft, ignoreMarks, subTableCount=1
+//=== feature #8 in gsub.featureList
+featureRcd, tagStr: dlig, offset: 472
+feature.lookupIndexCount=1
+#lookupIndex: 18
+Ligature, flag=rightToLeft, ignoreMarks, subTableCount=1
+//=== feature #9 in gsub.featureList
+featureRcd, tagStr: dlig, offset: 472
+feature.lookupIndexCount=1
+#lookupIndex: 18
+Ligature, flag=rightToLeft, ignoreMarks, subTableCount=1
+//=== feature #10 in gsub.featureList
+featureRcd, tagStr: dlig, offset: 472
+feature.lookupIndexCount=1
+#lookupIndex: 18
+Ligature, flag=rightToLeft, ignoreMarks, subTableCount=1
+//=== feature #11 in gsub.featureList
+featureRcd, tagStr: dlig, offset: 472
+feature.lookupIndexCount=1
+#lookupIndex: 18
+Ligature, flag=rightToLeft, ignoreMarks, subTableCount=1
+//=== feature #12 in gsub.featureList
+featureRcd, tagStr: dlig, offset: 472
+feature.lookupIndexCount=1
+#lookupIndex: 18
+Ligature, flag=rightToLeft, ignoreMarks, subTableCount=1
+//=== feature #13 in gsub.featureList
+featureRcd, tagStr: dnom, offset: 478
+feature.lookupIndexCount=1
+#lookupIndex: 9
+Single, flag=0, subTableCount=1
+//=== feature #14 in gsub.featureList
+featureRcd, tagStr: dnom, offset: 478
+feature.lookupIndexCount=1
+#lookupIndex: 9
+Single, flag=0, subTableCount=1
+//=== feature #15 in gsub.featureList
+featureRcd, tagStr: dnom, offset: 478
+feature.lookupIndexCount=1
+#lookupIndex: 9
+Single, flag=0, subTableCount=1
+//=== feature #16 in gsub.featureList
+featureRcd, tagStr: dnom, offset: 478
+feature.lookupIndexCount=1
+#lookupIndex: 9
+Single, flag=0, subTableCount=1
+//=== feature #17 in gsub.featureList
+featureRcd, tagStr: dnom, offset: 478
+feature.lookupIndexCount=1
+#lookupIndex: 9
+Single, flag=0, subTableCount=1
+//=== feature #18 in gsub.featureList
+featureRcd, tagStr: dnom, offset: 478
+feature.lookupIndexCount=1
+#lookupIndex: 9
+Single, flag=0, subTableCount=1
+//=== feature #19 in gsub.featureList
+featureRcd, tagStr: fina, offset: 484
+feature.lookupIndexCount=1
+#lookupIndex: 16
+Single, flag=0, subTableCount=1
+//=== feature #20 in gsub.featureList
+featureRcd, tagStr: fina, offset: 484
+feature.lookupIndexCount=1
+#lookupIndex: 16
+Single, flag=0, subTableCount=1
+//=== feature #21 in gsub.featureList
+featureRcd, tagStr: fina, offset: 484
+feature.lookupIndexCount=1
+#lookupIndex: 16
+Single, flag=0, subTableCount=1
+//=== feature #22 in gsub.featureList
+featureRcd, tagStr: fina, offset: 484
+feature.lookupIndexCount=1
+#lookupIndex: 16
+Single, flag=0, subTableCount=1
+//=== feature #23 in gsub.featureList
+featureRcd, tagStr: fina, offset: 484
+feature.lookupIndexCount=1
+#lookupIndex: 16
+Single, flag=0, subTableCount=1
+//=== feature #24 in gsub.featureList
+featureRcd, tagStr: fina, offset: 484
+feature.lookupIndexCount=1
+#lookupIndex: 16
+Single, flag=0, subTableCount=1
+//=== feature #25 in gsub.featureList
+featureRcd, tagStr: frac, offset: 490
+feature.lookupIndexCount=3
+#lookupIndex: 10
+Single, flag=0, subTableCount=1
+#lookupIndex: 11
+Single, flag=0, subTableCount=1
+#lookupIndex: 12
+Chain, flag=0, subTableCount=2
+//=== feature #26 in gsub.featureList
+featureRcd, tagStr: frac, offset: 490
+feature.lookupIndexCount=3
+#lookupIndex: 10
+Single, flag=0, subTableCount=1
+#lookupIndex: 11
+Single, flag=0, subTableCount=1
+#lookupIndex: 12
+Chain, flag=0, subTableCount=2
+//=== feature #27 in gsub.featureList
+featureRcd, tagStr: frac, offset: 490
+feature.lookupIndexCount=3
+#lookupIndex: 10
+Single, flag=0, subTableCount=1
+#lookupIndex: 11
+Single, flag=0, subTableCount=1
+#lookupIndex: 12
+Chain, flag=0, subTableCount=2
+//=== feature #28 in gsub.featureList
+featureRcd, tagStr: frac, offset: 490
+feature.lookupIndexCount=3
+#lookupIndex: 10
+Single, flag=0, subTableCount=1
+#lookupIndex: 11
+Single, flag=0, subTableCount=1
+#lookupIndex: 12
+Chain, flag=0, subTableCount=2
+//=== feature #29 in gsub.featureList
+featureRcd, tagStr: frac, offset: 490
+feature.lookupIndexCount=3
+#lookupIndex: 10
+Single, flag=0, subTableCount=1
+#lookupIndex: 11
+Single, flag=0, subTableCount=1
+#lookupIndex: 12
+Chain, flag=0, subTableCount=2
+//=== feature #30 in gsub.featureList
+featureRcd, tagStr: frac, offset: 490
+feature.lookupIndexCount=3
+#lookupIndex: 10
+Single, flag=0, subTableCount=1
+#lookupIndex: 11
+Single, flag=0, subTableCount=1
+#lookupIndex: 12
+Chain, flag=0, subTableCount=2
+//=== feature #31 in gsub.featureList
+featureRcd, tagStr: init, offset: 500
+feature.lookupIndexCount=1
+#lookupIndex: 14
+Single, flag=0, subTableCount=1
+//=== feature #32 in gsub.featureList
+featureRcd, tagStr: init, offset: 500
+feature.lookupIndexCount=1
+#lookupIndex: 14
+Single, flag=0, subTableCount=1
+//=== feature #33 in gsub.featureList
+featureRcd, tagStr: init, offset: 500
+feature.lookupIndexCount=1
+#lookupIndex: 14
+Single, flag=0, subTableCount=1
+//=== feature #34 in gsub.featureList
+featureRcd, tagStr: init, offset: 500
+feature.lookupIndexCount=1
+#lookupIndex: 14
+Single, flag=0, subTableCount=1
+//=== feature #35 in gsub.featureList
+featureRcd, tagStr: init, offset: 500
+feature.lookupIndexCount=1
+#lookupIndex: 14
+Single, flag=0, subTableCount=1
+//=== feature #36 in gsub.featureList
+featureRcd, tagStr: init, offset: 500
+feature.lookupIndexCount=1
+#lookupIndex: 14
+Single, flag=0, subTableCount=1
+//=== feature #37 in gsub.featureList
+featureRcd, tagStr: locl, offset: 506
+feature.lookupIndexCount=1
+#lookupIndex: 5
+Single, flag=0, subTableCount=1
+//=== feature #38 in gsub.featureList
+featureRcd, tagStr: locl, offset: 512
+feature.lookupIndexCount=1
+#lookupIndex: 4
+Single, flag=0, subTableCount=1
+//=== feature #39 in gsub.featureList
+featureRcd, tagStr: locl, offset: 518
+feature.lookupIndexCount=1
+#lookupIndex: 3
+Single, flag=0, subTableCount=1
+//=== feature #40 in gsub.featureList
+featureRcd, tagStr: medi, offset: 524
+feature.lookupIndexCount=1
+#lookupIndex: 15
+Single, flag=0, subTableCount=1
+//=== feature #41 in gsub.featureList
+featureRcd, tagStr: medi, offset: 524
+feature.lookupIndexCount=1
+#lookupIndex: 15
+Single, flag=0, subTableCount=1
+//=== feature #42 in gsub.featureList
+featureRcd, tagStr: medi, offset: 524
+feature.lookupIndexCount=1
+#lookupIndex: 15
+Single, flag=0, subTableCount=1
+//=== feature #43 in gsub.featureList
+featureRcd, tagStr: medi, offset: 524
+feature.lookupIndexCount=1
+#lookupIndex: 15
+Single, flag=0, subTableCount=1
+//=== feature #44 in gsub.featureList
+featureRcd, tagStr: medi, offset: 524
+feature.lookupIndexCount=1
+#lookupIndex: 15
+Single, flag=0, subTableCount=1
+//=== feature #45 in gsub.featureList
+featureRcd, tagStr: medi, offset: 524
+feature.lookupIndexCount=1
+#lookupIndex: 15
+Single, flag=0, subTableCount=1
+//=== feature #46 in gsub.featureList
+featureRcd, tagStr: numr, offset: 530
+feature.lookupIndexCount=1
+#lookupIndex: 8
+Single, flag=0, subTableCount=1
+//=== feature #47 in gsub.featureList
+featureRcd, tagStr: numr, offset: 530
+feature.lookupIndexCount=1
+#lookupIndex: 8
+Single, flag=0, subTableCount=1
+//=== feature #48 in gsub.featureList
+featureRcd, tagStr: numr, offset: 530
+feature.lookupIndexCount=1
+#lookupIndex: 8
+Single, flag=0, subTableCount=1
+//=== feature #49 in gsub.featureList
+featureRcd, tagStr: numr, offset: 530
+feature.lookupIndexCount=1
+#lookupIndex: 8
+Single, flag=0, subTableCount=1
+//=== feature #50 in gsub.featureList
+featureRcd, tagStr: numr, offset: 530
+feature.lookupIndexCount=1
+#lookupIndex: 8
+Single, flag=0, subTableCount=1
+//=== feature #51 in gsub.featureList
+featureRcd, tagStr: numr, offset: 530
+feature.lookupIndexCount=1
+#lookupIndex: 8
+Single, flag=0, subTableCount=1
+//=== feature #52 in gsub.featureList
+featureRcd, tagStr: ordn, offset: 536
+feature.lookupIndexCount=1
+#lookupIndex: 13
+Chain, flag=0, subTableCount=2
+//=== feature #53 in gsub.featureList
+featureRcd, tagStr: ordn, offset: 536
+feature.lookupIndexCount=1
+#lookupIndex: 13
+Chain, flag=0, subTableCount=2
+//=== feature #54 in gsub.featureList
+featureRcd, tagStr: ordn, offset: 536
+feature.lookupIndexCount=1
+#lookupIndex: 13
+Chain, flag=0, subTableCount=2
+//=== feature #55 in gsub.featureList
+featureRcd, tagStr: ordn, offset: 536
+feature.lookupIndexCount=1
+#lookupIndex: 13
+Chain, flag=0, subTableCount=2
+//=== feature #56 in gsub.featureList
+featureRcd, tagStr: ordn, offset: 536
+feature.lookupIndexCount=1
+#lookupIndex: 13
+Chain, flag=0, subTableCount=2
+//=== feature #57 in gsub.featureList
+featureRcd, tagStr: ordn, offset: 536
+feature.lookupIndexCount=1
+#lookupIndex: 13
+Chain, flag=0, subTableCount=2
+//=== feature #58 in gsub.featureList
+featureRcd, tagStr: rlig, offset: 542
+feature.lookupIndexCount=1
+#lookupIndex: 17
+Ligature, flag=rightToLeft, ignoreMarks, subTableCount=1
+//=== feature #59 in gsub.featureList
+featureRcd, tagStr: rlig, offset: 542
+feature.lookupIndexCount=1
+#lookupIndex: 17
+Ligature, flag=rightToLeft, ignoreMarks, subTableCount=1
+//=== feature #60 in gsub.featureList
+featureRcd, tagStr: rlig, offset: 542
+feature.lookupIndexCount=1
+#lookupIndex: 17
+Ligature, flag=rightToLeft, ignoreMarks, subTableCount=1
+//=== feature #61 in gsub.featureList
+featureRcd, tagStr: rlig, offset: 542
+feature.lookupIndexCount=1
+#lookupIndex: 17
+Ligature, flag=rightToLeft, ignoreMarks, subTableCount=1
+//=== feature #62 in gsub.featureList
+featureRcd, tagStr: rlig, offset: 542
+feature.lookupIndexCount=1
+#lookupIndex: 17
+Ligature, flag=rightToLeft, ignoreMarks, subTableCount=1
+//=== feature #63 in gsub.featureList
+featureRcd, tagStr: rlig, offset: 542
+feature.lookupIndexCount=1
+#lookupIndex: 17
+Ligature, flag=rightToLeft, ignoreMarks, subTableCount=1
+//=== feature #64 in gsub.featureList
+featureRcd, tagStr: subs, offset: 548
+feature.lookupIndexCount=1
+#lookupIndex: 6
+Single, flag=0, subTableCount=1
+//=== feature #65 in gsub.featureList
+featureRcd, tagStr: subs, offset: 548
+feature.lookupIndexCount=1
+#lookupIndex: 6
+Single, flag=0, subTableCount=1
+//=== feature #66 in gsub.featureList
+featureRcd, tagStr: subs, offset: 548
+feature.lookupIndexCount=1
+#lookupIndex: 6
+Single, flag=0, subTableCount=1
+//=== feature #67 in gsub.featureList
+featureRcd, tagStr: subs, offset: 548
+feature.lookupIndexCount=1
+#lookupIndex: 6
+Single, flag=0, subTableCount=1
+//=== feature #68 in gsub.featureList
+featureRcd, tagStr: subs, offset: 548
+feature.lookupIndexCount=1
+#lookupIndex: 6
+Single, flag=0, subTableCount=1
+//=== feature #69 in gsub.featureList
+featureRcd, tagStr: subs, offset: 548
+feature.lookupIndexCount=1
+#lookupIndex: 6
+Single, flag=0, subTableCount=1
+//=== feature #70 in gsub.featureList
+featureRcd, tagStr: sups, offset: 554
+feature.lookupIndexCount=1
+#lookupIndex: 7
+Single, flag=0, subTableCount=1
+//=== feature #71 in gsub.featureList
+featureRcd, tagStr: sups, offset: 554
+feature.lookupIndexCount=1
+#lookupIndex: 7
+Single, flag=0, subTableCount=1
+//=== feature #72 in gsub.featureList
+featureRcd, tagStr: sups, offset: 554
+feature.lookupIndexCount=1
+#lookupIndex: 7
+Single, flag=0, subTableCount=1
+//=== feature #73 in gsub.featureList
+featureRcd, tagStr: sups, offset: 554
+feature.lookupIndexCount=1
+#lookupIndex: 7
+Single, flag=0, subTableCount=1
+//=== feature #74 in gsub.featureList
+featureRcd, tagStr: sups, offset: 554
+feature.lookupIndexCount=1
+#lookupIndex: 7
+Single, flag=0, subTableCount=1
+//=== feature #75 in gsub.featureList
+featureRcd, tagStr: sups, offset: 554
+feature.lookupIndexCount=1
+#lookupIndex: 7
+Single, flag=0, subTableCount=1
+gsub.lookupCount=20
+//=== lookup #0 in gsub.lookupList
+Single, flag=0, subTableCount=1
+//=== lookup #1 in gsub.lookupList
+Alternate, flag=0, subTableCount=1
+//=== lookup #2 in gsub.lookupList
+Ligature, flag=0, subTableCount=1
+//=== lookup #3 in gsub.lookupList
+Single, flag=0, subTableCount=1
+//=== lookup #4 in gsub.lookupList
+Single, flag=0, subTableCount=1
+//=== lookup #5 in gsub.lookupList
+Single, flag=0, subTableCount=1
+//=== lookup #6 in gsub.lookupList
+Single, flag=0, subTableCount=1
+//=== lookup #7 in gsub.lookupList
+Single, flag=0, subTableCount=1
+//=== lookup #8 in gsub.lookupList
+Single, flag=0, subTableCount=1
+//=== lookup #9 in gsub.lookupList
+Single, flag=0, subTableCount=1
+//=== lookup #10 in gsub.lookupList
+Single, flag=0, subTableCount=1
+//=== lookup #11 in gsub.lookupList
+Single, flag=0, subTableCount=1
+//=== lookup #12 in gsub.lookupList
+Chain, flag=0, subTableCount=2
+//=== lookup #13 in gsub.lookupList
+Chain, flag=0, subTableCount=2
+//=== lookup #14 in gsub.lookupList
+Single, flag=0, subTableCount=1
+//=== lookup #15 in gsub.lookupList
+Single, flag=0, subTableCount=1
+//=== lookup #16 in gsub.lookupList
+Single, flag=0, subTableCount=1
+//=== lookup #17 in gsub.lookupList
+Ligature, flag=rightToLeft, ignoreMarks, subTableCount=1
+//=== lookup #18 in gsub.lookupList
+Ligature, flag=rightToLeft, ignoreMarks, subTableCount=1
+//=== lookup #19 in gsub.lookupList
+Single, flag=0, subTableCount=1
+Test_GSUB0() done
+
+Test Run Successful.
+Total tests: 1
+     Passed: 1
+ Total time: 4.0552 Seconds
